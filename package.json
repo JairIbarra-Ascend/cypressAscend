@@ -1,0 +1,23 @@
+{
+  "name": "cypressascend",
+  "version": "1.0.0",
+  "description": "Eapp team\r Cesar Roman",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairIbarra-Ascend/cypressAscend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairIbarra-Ascend/cypressAscend/issues"
+  },
+  "homepage": "https://github.com/JairIbarra-Ascend/cypressAscend#readme"
+}
